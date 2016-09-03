@@ -2,7 +2,6 @@
   "name": "sass-gulp-helloworld",
   "version": "1.0.0",
   "description": "Hello World! SASS and Gulp",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
