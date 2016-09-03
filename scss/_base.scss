@@ -1,0 +1,13 @@
+body {
+  font-family: $font-family-default;
+  background-color: $bg-dark;
+  font-size: 13px;
+  color: $color-light;
+  overflow-x: hidden;
+
+  @include rem-fallback(margin, 1, 1, 1, 1);
+}
+
+html, body {
+  height: 100%;
+}
